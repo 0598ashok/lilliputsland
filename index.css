@@ -1,0 +1,6 @@
+.elementor-background-overlay{
+    background-image:  linear-gradient(rgba(0, 0, 0, .733), #00000080),url("./images/13.jpg") !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
